@@ -17,7 +17,7 @@ This Java Swing application displays a simple analog clock. It updates every sec
 ### Running the Application
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone https://github.com/yourusername/analog-clock.git
+   git clone https://github.com/HChristopherNaoyuki/analog-clock-demo.git
    ```
 
 2. **Navigate to the Project Directory**:
